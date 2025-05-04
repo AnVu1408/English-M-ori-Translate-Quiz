@@ -1,0 +1,3 @@
+english,māori
+name,ingoa
+dance,kanikani
