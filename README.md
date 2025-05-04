@@ -1,1 +1,1 @@
-# English-M-ori-Translate-Quiz
+# English-Maori-Translate-Quiz
